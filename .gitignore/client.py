@@ -53,5 +53,4 @@ print("Here's the information we gathered from you: ")
 print(new_client)
 
 
-    #example of dictionary in list
-#{Paul:[69,69,69], relos:[1,2,3], jeb:[6,6,6]}
+    
